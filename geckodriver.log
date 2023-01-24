@@ -1,0 +1,49 @@
+1674305631219	geckodriver	INFO	Listening on 127.0.0.1:51926
+1674305631721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofilenyKy3Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1674305632304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674305632311	Marionette	INFO	Listening on port 51932
+Read port: 51932
+WebDriver BiDi listening on ws://127.0.0.1:51927
+1674305632507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofilenyKy3Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51927/devtools/browser/d323f813-a51c-4d89-917f-ffb91cef7b9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
+1674305818378	Marionette	INFO	Stopped listening on port 51932
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1674306961624	geckodriver	INFO	Listening on 127.0.0.1:51978
+1674306962147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofile8PxWgc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1674306963052	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674306963058	Marionette	INFO	Listening on port 51988
+Read port: 51988
+WebDriver BiDi listening on ws://127.0.0.1:51979
+1674306963257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofile8PxWgc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51979/devtools/browser/15540480-3874-477c-9e45-bf28f8f615ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
+1674307425378	Marionette	INFO	Stopped listening on port 51988
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofileX9Y1vx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1674307409689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674307409693	Marionette	INFO	Listening on port 58777
+Read port: 58777
+WebDriver BiDi listening on ws://127.0.0.1:58771
+1674307409829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\thelo\\AppData\\Local\\Temp\\rust_mozprofileX9Y1vx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58771/devtools/browser/d82f79a3-d3ad-490c-8587-29ab37508850
+1674307419556	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aekas.newacidrain.repl.co."
